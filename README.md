@@ -2,7 +2,7 @@
 
 A modern, responsive weather application built with React and Tailwind CSS. Get real-time weather information for any city worldwide with a beautiful, intuitive interface.
 
-![Weather Dashboard](https://i.imgur.com/YOUR_SCREENSHOT.png)
+![Weather Dashboard](https://images.unsplash.com/photo-1561484930-998b6a7b22e8?auto=format&fit=crop&q=80&w=1200&h=600)
 
 ## 🌟 Features
 
@@ -61,10 +61,10 @@ Check out the live demo: [Weather Dashboard](https://monumental-bunny-7ccd84.net
 ## 📱 Screenshots
 
 ### Desktop View
-![Desktop View](https://i.imgur.com/YOUR_DESKTOP_SCREENSHOT.png)
+![Desktop View](https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&q=80&w=1200&h=675)
 
 ### Mobile View
-![Mobile View](https://i.imgur.com/YOUR_MOBILE_SCREENSHOT.png)
+![Mobile View](https://images.unsplash.com/photo-1530908295418-a12e326966ba?auto=format&fit=crop&q=80&w=400&h=800)
 
 ## 🤝 Contributing
 
