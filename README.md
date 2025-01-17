@@ -58,13 +58,6 @@ A modern, responsive weather application built with React and Tailwind CSS. Get 
 
 Check out the live demo: [Weather Dashboard](https://monumental-bunny-7ccd84.netlify.app)
 
-## 📱 Screenshots
-
-### Desktop View
-![Desktop View](https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&q=80&w=1200&h=675)
-
-### Mobile View
-![Mobile View](https://images.unsplash.com/photo-1530908295418-a12e326966ba?auto=format&fit=crop&q=80&w=400&h=800)
 
 ## 🤝 Contributing
 
