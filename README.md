@@ -2,7 +2,6 @@
 
 A modern, responsive weather application built with React and Tailwind CSS. Get real-time weather information for any city worldwide with a beautiful, intuitive interface.
 
-![Weather Dashboard]
 ## 🌟 Features
 
 - Real-time weather data from OpenWeather API
