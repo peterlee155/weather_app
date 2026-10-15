@@ -23,7 +23,7 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
 
-  const API_KEY = 'd1a2e9ccbc00899121a8cb5526ad9149'; // Note: In production, use environment variables
+  const API_KEY = import.meta.env.VITE_WEATHER_API_KEY;
   
   useEffect(() => {
     fetchWeather();
